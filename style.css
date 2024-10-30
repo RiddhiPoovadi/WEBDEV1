@@ -1,0 +1,22 @@
+*{
+    background-color: beige;
+}
+
+
+#Inner1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-style:oblique
+
+}
+
+#Inner2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+
+}
+
+#Inner1 button {
+    height: 28px;
+    width: 59px;
+}
